@@ -1,0 +1,2462 @@
+[
+    {
+        "marka": "Audi",
+        "model": "A3 Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2670540,
+        "resim_url": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y2Vzc7kNBaGi241oFmAACHEDXwaCWlOnJ9KsviEmhUSILU0IzYt0TpOHNvlxEnZTlKVFZfCBXBHbFiymdVs2CDNWxKrp86_y37t_Prf06s1nF6-ffvNd399-bnWv9UvTqfbcjqd3oP_xdtvfv3fF3--_-F_fv_b_f5Pp1dpDXJ-DylvXvzDTqwVXRalPz59ANfp5en0wc-n06tfHgmnjz5bw7hw4OlfQcVl9tFu6pN_Fue6EX2h6qqshm7oyrLt67ZtRF1Wuayqohm4qWT1KRr9weNIXnfdEGafirJX0aV5uY3U3Cd515RneUWi_ErcxI2q81c8EzOXOgNWlTGxnM8GlgxiUcSqzzsDhGyBU0_l5onNJnpYVpbrAIx6g-WkUBXxqK9KEEd1vllAK0YsTnp6OGN1wYR4z1xJnFjcEFsjtz3xvjUXQZKNcApIl_ICbOKAhSUNTFI7f89IjlIWPcl5FxEFIQpGSuLsxtQZzs0ZCFc06-auqwrqFrYpA6Rd4Vy6i0LK0tv9TD2HImbUK1tgQj8YcXkA8-AcNp3VpDrl7QOzGgSpfsiUBvaamZQ11XQBxnoqSC2mvlWkoq33mga1nrmkwewbmg1jbJygYe4HbOQQ5WpyYKlGWEccsPNa-VY3pJ3J7grYRkzX0-yzlnTgJhVA2rqMdFy06EjvfL7nZFTgSgDY3QzYmwmwnPkSmM7-AsTCJzKOnanIxL2xsNbe4b-bu8wx3fq4VkCI5XgmixPzGTkOrolAvGLxro8lyt14ZBjrpuUaWnKzKRKsedISBfNWHQO5MIkD1uNwUBC5wqpdXB0jczXOFeSOVAhJI3eVq2jslutV0NhLv2dA7y8PzAoLHBWP2Qh44QsgFNDnaLnRKLDTmADHChocnawLBrr6DMyhXhAL0NkN2KAmGqNqt57GdarNQBP3HsKcOJ5VQVMfB2zdNHAbW5qcUlMOrM1R0jSzvSFzTj1inrd61eS9Hw5BC096eSC2bUeLNOXD6lLbjrRY3zaBFje2jQbmtpG0RNu2lq56Gq4ZXVdmIHDftRMw2-YOrO2lpwDVHQWF3tU4gAC9NRswbjixoILQLYWYMonYOvgjp8iyvBWArocWMJxlwJo7T1GGZpsoduk6Coq9KRViiq8WmcORQ6ZRu3aBZaUXPaCKRQKmZPS0hy07ip5rKCR609zRZVnr1lAM5mwriqmvJcrTkF80YDKJLgmrBbZ5wFsQ99DcaiA2_kzJbSUuV1p0C_WkZYQWKYWhwlVLcfE427Sp61ZQ2lcRmdJ9EeoGHPlR0yadwLXYZqfRepvjVTBtaWuPjXYe28RAUJDUbrcr9LJHrvGn9xhLPdAhGW8nEPIdwOGnng6rykPS4aAJON1WQMLHatop-1r5zeJhnZRPzz_MP7x-9-28RvW02z6ZZ9Hm2ZNRVpv0LMoye-JxMfw8MDT31PGEa_r874QvwLvX7_J3WYYEjy9Csnjon9_M0T5-ff8of4pJqWC9Zq9H9Syyp0kl7vFibipEZD3nn718_eOb_wOyc8EjkQYAAA.webp?wid=766",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a3/a3-sedan/"
+    },
+    {
+        "marka": "Audi",
+        "model": "A3 Sportback",
+        "kasa_tipi": "Sportback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2541372,
+        "resim_url": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y2VT8vkuBHGe2eY3SWHhGQJYb_AS2AhZfm_Di9h9hTILgwk5DKQoWzLklq27JZku9un_Sj7AfYb5ZLjXnLKJZdAnoacfl2lqpK66pH8078u77Zwefvx47d__u_Xv9X6H82by-W-Xi6Xz-B_8_Hbn_79u_98_uVf__l_9-d_v7xLW-iWzxDy4c0v7Mxa0XVV-leXL-C6vL1cvvjhcnn34zPg8suvtjCtHHj-Q1BxXXy0u_r17wtZ5EUruZZFppqhzcu6Fapoa9GPueykFCrvRV3_BoV-5mkir_t-DItPRTmo6NKy3idqH2P30JRneUWi_EbcxZ2q-hteiJlLnQGbypi4W2oDqwtiVcRqyHsDhGyFU8_l7onNLgZYtiu3EZj0Dst1QlXEk74pQRxVfbeAVoy1OOv56YzVFTvER-ZK4sTijrUtshyIj729CurYCKeAdC2vwC5OWDjSyNRp5x8ZdVPXFQN1yyEiEkIUjJDE2Z2pN5ybGgg3FOuXvq8K6le2KQM6u8G59leFkHWwR00DhyJmNChbYIdhNOL6BPaDc9x11pDqlbdPLGoUpIYxUxo4GmZS1lTzFZiauSC1muZekYq2ORoa1VZzSaM5dhQbp9g6QeMyjGjkGLvN5MBaTbDOOKLzWnmpW9LOZA8F7BN21_PiM0k6cJsKIO19RjquWvSkD64fORkVuBIAulsAR4teG8uZL4G59lcgFj6RcexMRSYerYW1DQ7_3Ty6HLtbH7cKCLGcarKYmM_IcXBtAOINh3dDLJHupjPDtm5eb0GSW0yRYC2z7pCw7NU5kguzOGE9h4OEyBVO7eLmGJGbca4gd6ZCdDRxX7mKpn693QRNQ-ePDBj89YlF4YCT4imbAC98AYQC-pwstxoJdp4S4FhBg5PrmoKBvqmBJTQr1gJ0dgd2qImmqOQ-0LTNjRlp5sGjWTPHWhU0D3GcM5pHllHS7JSac2Brz5Lmhe0dkUsasOZ5bzZN3vvxFLTyrNcnopQ9rZ0p15LWPkk50Wq9RAdXN8lWA4tsO1qjldLSTc_jLaPbxgwEHno5A4ttH8AmrwMFqO4sKAyuwQAC9NbuwLRjYkEFoSWFmLIOa9voz5wid-W9AHQzSsBwlgFb7jzFLrT7TLFPt0lQHEypsKb4ZhE5njlkGrWTKyzbeTEAqlg7wJSMmva0ZU_RcwOFRG_aB6qsWyMNxWBqW1FMQ9MhPY35VQMm61Al4bTAvox4C-IR2nsDxNbXlNxe4nKlVUuoJ60TtEgpjBWuWoqrx2zTrm57QenYRGRKj1WoO3DmZ0N75wSuxb44jdL7Em-CaU-7PHc6eJKJgaAgqcPuN-jliNzgTx8xlnqks-MW1_7sQn4AGH4a6LSqPDs6HTQBp9sLSPjcjJyzPyq_Wzyss_Lp9fvl-_ef_rRsUb0cdkjmVcg8ezHKapNeRVlmLzythl9HhuZeep5xTV__kvAF-PT-U_4pyxDg8UVIFg_964cl2uev757pLzEpFazX7PWkXkX2MqvEA17MXYWIqNf8q7fv__bhf9mEZIiRBgAA.webp?wid=766",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a3/a3-sportback/"
+    },
+    {
+        "marka": "Audi",
+        "model": "A5 Sportback",
+        "kasa_tipi": "Sportback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 4758783,
+        "resim_url": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIiBOTrayfuvpGh6-m1zJgaGigIGBgZGoDhTtNOaz-I_2DhCHsCEtzEwF-SlMwJZKUycmbmJ6an6QD4_I3taTmV-aUkxO0grz6s5mzjO37oztWXu-ZcKa7PnsrE4lTCwAnUxugEJ5j1Agm8bkOCUZgCTIPOmgogeEJ_JgZmBgbUCyIhkAAE-vtKinILEosRcvfLMlJIMQQ0DIoEwu4triKOnTzAAFU2r-ukAAAA.webp?wid=608",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a5/a5-sportback/"
+    },
+    {
+        "marka": "Audi",
+        "model": "A5 Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 5152113,
+        "resim_url": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y2VTcvkuBHHe2aY2WUOCckSlnyBh4WBlPzWtg5NmJnLDklgSEIuc3go27KslvzSkmx3-7Dsh9gPsJBbmA-Tey45BAK7hBxySA5ZyL8hp5__JZWqVCrJH_9xeL74w7MPH9786oef_0zrv5RPD4frfDgcnsD-9MObj__6_D8vPv39X_9vfvHV4XlcfD09wZT3T1-agbWi86z0j5-80G6q2X1yd_705bs___G_f3pXfffun_lv_h3_9ttv_v7D4dnh8MnXh8Pzb-_ehx99tng3s-fhF16FeRqDWdVPvjiKTKRJUnBSpoXKy67IyuzIdZaW3TErJefHTBZp_VMs9D07R6Nums5PY8zyVgUbp_nqqFtSXm6UirSgJH_lCldQcXw1GGLmXGfAogQT19OxF4BPZijVFuYCeDHDqId8U8T9mrRQps6XDnB6hZpnHYCgjlcLaMV3NcAFCMX5DNyEhYqcXBPiJbCE-7ZW54Jq7hPbAfGctsCaOEs1cumY6nY-I6W6Y7FAaTveoFxdZ5gZWVyZmp7TXgL-ck6omZqmgprZRAHUZoFxbs7qCLRmA-JVb4JaVknNgM-QfKtMhnhth7A5qUaNJiHVbiUzKdMXwx2uHGA0y6WCmnt5FaSCKbc7wqIq6rgVWKVTyxEl6Ppt7QAXpMHY1HYoZBfmwgF76FByrUapK9K2FzcHrOJsSQ9TlDB6rmIGxLURpMOsk5Z61rrPqVeeiwRAdQX1hsUIZYbjeKbesuQL9WGrTKR-aS3219_qFPHM2HZYzIxhKaB8yN2RLCthFeBtVZOtV4Ft2jbkfUHW7eKWkh3mi5dAyHH8dhp0fcda7B1ZPyQ7HHwQXUY2cIEINiyW4bfHLKnJcVPYErBdnZNr5stFkGvrcbujHc93aPQpMCmk6xQ74cj1O6N0znClE2BwEUC-6Dpn6zJjoCmPwORLVNd5TvcLsKKNyAUl1xYIaVOQW4ayZxo4HFVCQxu6QdCgBjZAxzJIGqxSQwos1Z7TMLG5Qk2xLRcaeS0XTeM4dtjtzINGvJmDlDXNTZTS0qxsMWOsW2QFpblDurMZZeVptk5WGpgkijwHI2VPFz10qMRlYQY8t424Aos8M_lmUntGvrWlTcijCccccCuO0SufoG0C18cmBZbUjhRqX60zhcZ3FsYmXlxCoe1zVVJQfDGSQhdSLBa6PUVjBm3lDKOpx3QAVOYyoM_5jt3kDQXLZ1zY4Hx1OVMY--oGNS8lrmHw_dFgZuhzi5nBZ3djjBqnGdYJV5bC5qsrom-7xIsStTqeW4p2zU1JcdYSTRRnh86k6LuiS4AtazBzVZc1o7i5ZNXAkgQYb3OirsCe7iWttU2ipLWrk3NK62Q14q1TuCRMa1zlvtLGTkYGvEKfbYFLPAJbCLm-0F77dGPa0QOxpd2ofK9pt2uG_txDEH6nfenlIH6pxtXgRR3UGE9fTktQj297HurJt49veeSWHzbTxv6UyFQ89MroPp6SPBcP7OaeT9Ev6qHhARf29LuIP8Tj68f0UQiMj_hjRIO3_vR-Cub-9eu790OISnkzah61U6dEPAwqIk7kVfmAWaf0s2ev__D-f3n26iKxBgAA.webp?wid=766",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a5/a5-sedan/"
+    },
+    {
+        "marka": "Audi",
+        "model": "A6 Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 6165153,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/a6/a6-limousine/my-2024/stage/AA6_L_181012_3-L.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a6/a6-sedan/"
+    },
+    {
+        "marka": "Audi",
+        "model": "A6 Sportback e-tron",
+        "kasa_tipi": "Sportback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 5470771,
+        "resim_url": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y3Vza7cNBQA4GmrtogFCCqEeIErpEoc528SL65QuwWkSqBuurg6iX_isZM4tuPMzYpH4QH6Rmx4AVZsYIHEGYnVN-fMiZ3Yx8nHP0_Pt3B69uHD2x_-_eYrrX9vn55OV386nZ5Q_umHtx__-vrvF5_88sf_6RfL6XnaQr88oZJ3Tz81E2oJFy_156eXlDo9O51e_no6Pf_tVnD67NUWnMeA03dBRr_M0WT5xbei41w2CtlQqaGoULGma1TVVRX2vUBVnptesmr4kgb6B52DWQ-DCsucqlrIaNPirw70iNgjlKxsoKhfb93WQXN-PRlAxFpXxCYZAhVtghGh8BRJUQoq0RPTFI25mBpA09cbJY3TmSqdXiUH9F5HiqI8Xy2hJd6iSU81EZsLXR4fmaXKhMW1JPoL94BbRK4A99xdGuhxLGUicnEg9P1yVoRw9coIfxkJWomNkq7vK0Fo21fQJ2RXhGHEcuREWC8FDMswsAoGjyYxojcbJf1wkWdCmJ1IV70zECgLWhwx9G6sQEhT0bRC0ew1yEHOpgAp9hYRpBmbpAnXTpQ029pR0o_8ykBG0-434iY7IumDgULBaDAltzMtiBr3rAgXuelALUJ5ioIpcwMq9ttYEr5xlDyiou3QdmSPisjsQkxLqjhoH6qtBh2wSxWR8sBAR6-LA0YZsCkIWnJG7N1EGGQzJc10ni9ErOYEo0WOG4xx7wxFm7C0f8apfGMWargRtwbBhFi7M1iUzEoi2C4QcbUFWBHrsQHrUFpGHOyRkpNfAydiTb1kl0n3N3JzKLARGxraxs1iCfZIVWHB4dDYlrCqr8ENfl0LcKKfaT2dEPPlhlZbSSwyUqVExxy48UBaSGew01RiJpfoOrpRakxn-7ZCYmjPI7gltJ7-C1gePZGpxcBFybMgvLtNFGM5NOC2qR17mDCeZQWTiGrqYJITGgaTQh45TFbKqQTaDdF6mOdZHQV4nDTtpsfIeQ9-SJxb8NI2NK1XG-8o0qjoBr2ZOa2gt453ilg4NZF3yLsMPhrOR1j1pKjn1w2RCCjO7JHYOJ2jMCzyqCAI29IGBGlWxgmXqV-CDIXuIGJ_HkqIfeiyhjik1RUQxVjLFqLETGsWVSxtQxwldWTUtqDni6afy4mQlauIscYbh6kHiBYvVxrFhW69QJzH7pEu8Ft7I4xnQ5VxzDuNmZKmHYt5obNKhHxGiHvo6JAkgeXOIWl5vghINtemheQ1pw5J3vUlEVSjCmKvBoSU5ZorSPtWRIoefSGvxFEeLeTeFolDVn1xKSEvVmNBxLVAyCnzI8OOQdLe7hFbOvZ7jLVe4ehDuSMcamJJwGFkTT1x2FxRRx5OXGIBx-QcPe2xjXyqvpdzNvRGneSc7t8b5_DhjRuWXs4C48NPKIIRD29xsLSJSca73Yg03he8ZHejNHpM90Vdszt0fsR7hdR2dwNOdFLvf070SXh481A-MEYFM30ikqE3__27JZrbrx9vl9_FJGUws8ZZO3lfsLtJJhT0Js0yRKq6L189e_P-3X94lh1_ogYAAA.webp?wid=766",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a6-e-tron/a6-sportback-e-tron-2025/"
+    },
+    {
+        "marka": "Audi",
+        "model": "A6 Avant e-tron",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 5596531,
+        "resim_url": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y3Vz87cNBAA8G2rtogDCCqEeIFPSJUYx0k28eETaq-AVAnUSw-fJvGfeO0kju0k--XEo_AAfSMuvAAnLnBAYlbi9FvPTuzEM04-_nl6vsbTsw8f3v7w7zdfGfN78_R0uobT6fSE4k8_vP3419d_v_jklz_-D7-YT8_zGrv5CaW8e_qpHdEouARlPj-9pNDp2en08tfT6flvt4TTZ6_W6ANGHL-LKoV5SnZTX3zLz7yVvZJYt5yztuuZ4h1TWHHJtOBlw3RTc1V8SRP9g97DZPpex3nKZSVVcnkOVw9mqLFD4IzXUFSv13ZtoT6_Hi0gYmVKYlUMgZJWyYhYBBopySWlmJEZGg1bMdaAtqtWClpvNsr0ZlECMASTaJTU-eoIo_A2Gs1YEam-0OXpkTnKzFhcOdFdRABcEwoNuG_tpYYOB64ysRUHQtfNZ01IXy2MCJeB0MhWCvquKyVhXFdCl5FdEfoB-SCIuFwK6Oe-ZyX0AW1mRGdXCob-os6EtDuRr2ZnIFEVtDmy7_xQglS2pGWlptUrUL2abAFK7g0iKDvU2RC-GSlo16WlYBjElYFKttlvpFW1RDYHA41UJQSt1jNtiB72TRM-CduCnqUONIqWbzXo1K0DJ0LtKXgkTeUwbmCPhtjYRYMZ51wKMCGWawUmYptLIm89A5OCKQ4YVMS6IGjLS2Jv6T4Hi2y6MZ6nC5HKKcPgUOAKQ9pbS6NVOqqf9Xq7MUnd30hrjWBjqvwZHCrmFBFdK4m0uAKcTNVQg_OoHCMO9kjBMSxREKmiXnLzaLobW31ocAlrmtql1SEHd-SycOCxr11DON1V4PuwLAV42U20n17K6XLD6JUTs0qUqdAzD344kDbSW2wNpdjRZ7qObpQa07uuKZHom_MAfo5NoP8i8qMjNmox8EmJTRLB3xZKifc1-HVshg5GTGdVwiiTHlsY1YiWwahRJAGjU2rkQNWQTYBpmvRRQMDRUDUDJiE6CH0WwkFQrqZlg15FSyODmm4w2Em0EYLzotXELKiJgkfRbhCSFWKAxYyaen5ZEYmI8sweiVXQOYr9rI4SonQNFSAquzBB-I36JapYmBYSdueeQ-piuxlIfV58AUkOlWogKdxoz5JO3NXEwakjk3EFPV-y3cRHQpW-JIYKbxy26iE5vFxpFh_b5QJpGtpHuiCszY04nC1lpmHbac6cDVUsbTOdVSJuZ4S0x5YOSZbIdwHZqPNFQnZbZRvIwQjqkBx8x4moa10Qe9kj5E0tWwl5X4tEo8dQqCtx8KOBrXNFFrDprrhw2GZnsCDSUiBseRPHBjtGRbXdEzZ07PeUKrPA0UW-Ixx6ZFnCYVVFPXG4raSOPLy8pAKO0Xt62mMdxFh-r6bN0ht1VFO-f2-9x4c3vp87NUlMDz-hjFY-vMXeURGzSne7lXm4LwRnd4OyZsj3RVWxO_RhwHuN1HZ3PY50Uu9_zvRJeHjzwB8Yo4SJPhHZ0pv__t2c7O3Xj7fL71JWKtrJ4GS8ui_Y3agySnqTbiomyrrnr569ef_uP1Jez1CiBgAA.webp?wid=766",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a6-e-tron/a6-avant-e-tron/"
+    },
+    {
+        "marka": "Audi",
+        "model": "A7 Sportback",
+        "kasa_tipi": "Sportback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 8576823,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/a7/a7-sportback/my-2024/stage/AA7_171013_4-L.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a7/a7-sportback/"
+    },
+    {
+        "marka": "Audi",
+        "model": "A8 Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 22395804,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/a8/a8-l/my-2022-pa/nemo-derivate-startpage/stage/A8_2021_3275_V1_withoutCast-xl.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/a8/a8-l/"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q2",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2694797,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/q2/q2/my-2022/NeMo-Derivate-Startpage/stage/1920x1080-q2_2020_1253_female.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/q2/q2/"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q3",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 3496481,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/q3/q3/my-2022/derivative-startpage/stage/1920x1080-audi-q3-eciRGBv2_2018_Audi_Q3_St_Johns_AL_14_No_Sign.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/q3/q3/"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q3 Sportback",
+        "kasa_tipi": "Sportback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 3802877,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/q3/q3-sportback/my-2022/NeMo-Derivate-Startpage/stage/1920x1080-aq3_191008_v3.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/q3/q3-sportback/"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q4 e-tron",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3108869,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/q4-e-tron/q4-e-tron/my-2022/NeMo-Derivate-Startpage/stage/new/Stage_Desktop.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/q4-e-tron/q4-e-tron/"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q4 Sportback e-tron",
+        "kasa_tipi": "Sportback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3221597,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/q4-e-tron/q4-e-tron-sportback/my-2022/NeMo-Derivate-Startpage/stage/new/01_Stage%20Desktop.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/q4-e-tron/q4-e-tron-sportback/"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q7",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 8183403,
+        "resim_url": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y2Vy8oltxGAj2cYO9hgYxsT8gI_AUOq73168WPGq0BsGIjJZhZDqXX9pb4clVp9Tq_sN8kD-I2yyQt45U02gVRDVl_XRapSVan162-XN1u8vH7__vu__fdP3xjzr_7V5XJfL5fLR6x_9f77X3__438-_sNP__6_-uNfLm_SFsXyEbu8e_Wpm9AoeFmV-eLyCasury-XT36-XN7883S4fP71FsOKEae_REXrMpPL6ss_96JvxTjIpi6r8qrxWihZCbyOdSvqXmIziror5PAVB_wMQ4DZjKOOy5zqRiryaVnvAZrpNo4lVEXVQtl8KzvZQdt9O62AuKkCAUUs1wioZH8IRizWAtBMza4YVDQW0OZSstKJZtOMYDJL62qoBSTVcRgko5CVFFo6pclMpxTbuDEehWdpk8M-MgivD8A9d_4KAm2lJCO9FIKRywNBiKXTjCAEJyiWvaQKRMLijjDKvedAo8XKDjAu4ziwtKJLJ4TbTowus22VbmdpzxUnL1GVwjNiTSVI5Wq9gdQciG1Ol48OlBCVKRnpllpQo5pdD-qMF0A5207ICPm0rba_V6DI9RxBEW2aPSmZowKNsuDktdo6zlPrveR6akM5MOyeOZ4OdPUl6EXq0xZdlVvQJDbLy2ltT89MvWEcpLkERukhFox5MDUYb4uHYeTixYKZllQJMGustx5MxGvqGCmPvIBWU7Lnjt2jAovG2BKsEl0-EbE9Qe1LDdZhMbPkpm5-YVDrEazHASVY2q_uAXaTngqwD1FxSm6mrWVEakIHHqPnQfFINz6YF6IjYuRiasGHo-DoflpvcWBQw-3wy2QEey65PUbwcSq5dD5SiQzClpP35GrTMDZ_KjfrfQ3-yN3eQcCx9T0EYWszQxjX262EIOX8UjAWxXkGhaEIjPl2sKfDK28WPCqe3eBFXyNj7LsTQdlTSdVaQVhiv_JmEcv7zsg8kxBIDZkYVI282Tb1doUJqVMdTJI0D_ukcaArTH67Hg1MC7p7yUiyvsE8o34UjFkfJaw4GQ60GtQ8tDcz6RtjQ2RElE17Z2zDi4Q4LuqoIUrf89kjD2GPjJCLE7E0V4iUClUBoWjuNcNiUTC2ys9AIl7zBDRGzfePxnQLLZC0jeqBFN7cAKSp4kKSPioeTDJ-WDsgJ2buLTlVh4ZhG-St3eGaEcjjy509Z-zDlWGvjxJomds729at52NStJ3jBWQbz0qK9alMyXBzKC-arwXt8crlof0YVg50hHqqIfnc6ArSagZRMAIPGqSoW1ky9npESLTOiaWsbtzGtIcyG8ZWEtsea6nujKPihmfhy1RDXrzheHmhW4mQUx4OBTuGISEjKr6-O2GvTlBjNBwiVjvCwS1NEg6nGv4rHj7XooWDqIgHHEl2fNWOFDOPzbHZYSq-U3N2_O-d1Jyef1x-fPvhr8tG6ml3MtnncqiKJ6ucsem5bJriCcNq8Vkjz9XTiBNfxee_J34kPrz9UH0oCnaY-dFIjt-C53cLufPrh3P5EyWlopsNziao57J9mlRCiQmzisRez9XXr9_-493_AA8yjzm0BgAA.webp?wid=766",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/q7/q7-suv/"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q8",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 9506043,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/q8/q8/my-2024/stage/Q8_2023_5476-new-crop-L.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/q8/q8-suv/"
+    },
+    {
+        "marka": "Audi",
+        "model": "e-tron GT",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 8000000,
+        "resim_url": "https://media.audi.com/is/image/audi/nemo/models/audi-e-tron-gt/e-tron-gt/my-2023/_range_campaign/stage/eGT_2021_2312_V1-L.jpg?width=1920",
+        "site_detay_url": "https://www.audi.com.tr/tr/modeller/e-tron-gt/audi-e-tron-gt/"
+    },
+    {
+        "marka": "BMW",
+        "model": "1 Serisi",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2413300,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQ8J2jD5lk1tcDVXOyzoVBDFBfpCb9EiyEjD52scCJzL1hJUbKiifGruLBkJnTNM3TFe0PL5kiLSMfbYznQ5Lwm6Ui58LYU4GZIvuscCtFbiwNJ0%25lRO8gqTMJFsyZLB9WCE85GaHKVZiNuzH7Qj9vQFukYcE47JoSEQkPNHCZvhJPFskJEJGJ0AABKupkBkFeWS6fGvKMPVYV2GWhbNm6hOPo90yYChbHi4TmR29%25wc3y7miftxdIXCw178zBTrtECUkeU77slGAM6bCrXpF7i%25lZQ6KCwrXRaYWl9QQ5nmPXiUagOybQsnnvIT9axgO2B3in1lIjedwO45BDMztIHBeqhk7bqvMLoAC9VAhJHFliNJou%25KXw0vHSfWQthY%25V1PaZILfNEbnR3J10s9O58oE4riIgUdscZwBvmdrxRteRAPZ857M5mkRUgChgH95GvlovUKgp2XHYrvv6jQ%25eup2YDafMgijmqn1qrRDyLOELV5qTJIsIjwL3uBrU3IJdSUS%25JxvQy2sC4v6OD3Zekxh1lNUEMAKWzOSFbZWHkJEKG%2595ABNIqab9FSrW1vN",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/1-series/bmw-1-serisi/bmw-1-serisi.html#technical-data"
+    },
+    {
+        "marka": "BMW",
+        "model": "2 Serisi Gran Coupé",
+        "kasa_tipi": "Gran Coupé",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2896000,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQ8J2jD5lk1tcDVXOyzoVBDFBfpCb9EiyEjD52scCJzL1hJUbKiifGruLBkJnTNM3TFe0PL5kiLSMfbYznQ5MDmNUi58LYU4GZIvuscCtFbiwNJ0%25lJO8rqTMJFsyZLB9WCE85GaHKVZiNuzH7Qj9vQFukYcE47JoSEQkPNHCZvhJPFskJEtF0kimvay8RbmlT30PkiyX3242EVTQdjcjs63azDxDyEdnkq8qVzzOALULNnkIFJG8IXABKupU1ZFeWS6GBdKMPVYp9GWhbNm6ivPo90yaAwbHi4TnH09%25wc3bl7iftxd9W%25w178zi1htECUkwEP7slGAtstCrXpF7VslZQ6KChiXRaYWzeZQ5nmPkiIagOybADynvIT9Fq1O2B3iKLsIjedwWniBDMzt%25lgeqhk7fSnMLoAC1VphJHFlE1Wou%25KXs86HSfWQxCD%25V1Pa8qqfNEbnU3110s9OGaqE4riIrgoscZwBZhHrxRteRAPZ857M5mkRUgChgH35Gvlov%25igp2XH2GWv6jQ%25mpr2YDafy6LjmBLz5hFUHsQ4proKPbABNWi5bfFSrP6liaKM4eJOiwWNRbsj4",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/2-series/gran-coupe/bmw-2-serisi-gran-coupe.html#teknik-veriler"
+    },
+    {
+        "marka": "BMW",
+        "model": "3 Serisi Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 4176900,
+        "resim_url": "https://www.bmw.com.tr/content/dam/bmw/common/all-models/3-series/sedan/2022/highlights/bmw-3-series-sedan-sp-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1651158408008.jpg",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/3-series/sedan/2022/bmw-3-serisi-sedan-genel-bakis.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "4 Serisi Coupé",
+        "kasa_tipi": "Coupé",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 4830400,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQCqtUDBCmtOWN%25PduaWhbNmNjpPo90y0K2bHi4T4Gy9%25wc3y%25eiftxdTA%25w178z3vqtECUkd137slGAzQdCrXpFkaBlZQ6KoInXRaYWHR6Q5nmPXeJagOybQCsnvIT9algO2B3in2ZIjedwOjXBDMztIcQeqhk7Bx4MLoACe82hJHFlMhvou%25KXhEBHSfWQovH%25V1Pa7VLfNEbnC5J10s9OlgNE4riIXU7scZwBQ1drxRteaEBZ857MjH0RUgChDYE5GvloqmKgp2XHLyPv6jQ%25J982YDafuAPjmqn1ScJDyLOEVu%25qTJIsNKIL3uBrK0YJdSeZWEYuzVMRPsSSkNh5byyVA0og9QNNF4Hv4UL0Kc%252cqJ4WxfjxOMcP81D87nxbUEqUJX89GsLGuHUiprJp9eGw6Zu6aJptYRSC1g672gfrR5iWw8jOu48Fe0ApbFdKVZcYuzHYjyuEXI3D%25Nx2YI3w9cEiNHC8%25HrxlMkJEPuqTMiCgWRCzq3GN%25Vijy2oIj4FzWWhc972wsP05iyrIhbH8wVjWCV4%25rt3KeIjV5dTYCjYkf4JuFSrF2eN8KM4bfz8snGyulITUrR5E470jR5gswTobVgLtXpyBLagdOLb5inTNu8PftE61cHQa7Gql2V6",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/4-serisi/4-series-coupe/4-serisi-coupe.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "5 Serisi Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 6143800,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQCqtUDUkeMz7sltdwOjZBDMI9OD%25kE4riIn0HscZwBQGYrxRteaESZ857MBTkRUgChe2B5GvloVq4gp2XH5rGv6jQ%25eTT2YDafu3bjmqn1qY9DyLOEVSBqTJIsN8SL3uBr07YJdSeZ4FCuzVMRcXySkNh56rKVA0ogYuQNF4HvUnO0Kc%252cFW4Wxfj0LCcP81D4kxxbUEqc3V89GsLxnKUiprJ899Gw6Zu7foptYRSRHp67m5VpJXYCygN6U9mlTv0JlwyX3mlPxK73DIdpvw3azSlJZSTYTVHExcfmP9%25DyeI7QnO68YgMIfwmcPr4jGcVxEaRqfNwqMJfldKShts5eqKSYpRl6swTgtwQ53b0%25lUfoub6TI8nTNoS2stE6MJeiKMZcN889RpyeYXUrO6JQi8GwgG3oVDqzL1zxHkCkIVKoT4fXx6qtaYc1sr%25ViSgsrZfbYeKJZj9786njlZyQjKrPXYuq4Fo9%25UHNMClix2t5JU",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/5-series/sedan/bmw-5-serisi-sedan-genel-bakis.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "i4 Gran Coupé",
+        "kasa_tipi": "Gran Coupé",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 4345300,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQ8J2jD5lk1tcDVXOyzoVBDFBfpCb9EiyEmSl9scCJzL1hJUbKiifGruLBkJnTNM3TFe0PL5kiLSMfbYznQ5Lwm6Ui58LYU4GZIvuscCtFbiwNJ0%25lJOhVqTMJFsyZLB9WCE85GaHKVZiNuzH7Qj9vQFukYcE47JoSEQkPNHCZvhJPFskJEtF0kimvay8RbmlTv0v1jyX324NM%25TQdjc0X73azDx4A0dnkq8cFszOALUxK9kIFJG7bWABKupC3PFeWS6leUKMPVYXf2WhbNmQ4iPo90yWAhbHi4TPHB9%25wc3bkSiftxd9O%25w178zijhtECUkwD27slGAtq%25CrXpF7galZQ6KCmXXRaYWlyYQ5nmPXRJagOybQfGnvIT9a1nO2B3inMlIjedwWj5BDMztPloeqhk7bSqMLoAC9BGhJHFlEajou%25KXs5JHSfWQrTU%25V1PaZr9fNEbnRjp10s9O5p9E4riIpauscZwB6hVrxRteYVVZ857MmFRRUgChyX95Gvlo6imgpnjTrBzcMfCV81ekFKdnuAPrKozL1FUfcrkIVODQPbAusKfgV",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/m-serisi/i4-m50/i4-m50-gran-coupe-2024-g26-bev-mp.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "iX1",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3044700,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQCqtUDBCmtOWN%25PduaWhbNmN6hPo90yYZvbHi4TmtY9%25wc3OK7iftxdIUxw178ziQltECUkwb17slGAtsHCrXpF7VslZQ6KCJ1XRaYWlF4Q5nmPXBcagOybQfGnvIT9aeCO2B3iK7MIjedwWJdBDMzt%25lgeqhk7fSnMLoAC1VphJHFlE1Wou%25KXcjjHSfWQxl2%25V1Pa8t3fNEbn4V110tikWb9SqVo7gaHbjmB2fJj5DOPMEagdE7raFx6RCzIhtE6RVuMFSId4ozdWhcyvQFLalZyS4iqb4glR%25IzOS7rt367ejgqqTMu0tVKLB9SrY9kJdoJcl51E8sn83pZ7Ui56l42aKDSEzPVjnIBQ53RoIBeayVt6refTkqSbfFe0Wf6BmKVZE2plTQLXg7AF3D%25zhrL",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/i-series/ix1/bmw-ix1.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "X1",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 3799800,
+        "resim_url": "https://bmw.scene7.com/is/image/BMW/u11-ice_phev_highlight_charging:3to2?fmt=webp&wid=2560&hei=1707",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/x-serisi/x1/bmw-x1.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "X7",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 27503000,
+        "resim_url": "https://www.bmw.com.tr/content/dam/bmw/common/all-models/x-series/x7/2022/highlights/bmw-x-series-x7-sp-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1645602605338.jpg",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/x-serisi/x7/2022/bmw-x7-genel-bakis.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "XM",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 25763200,
+        "resim_url": "https://www.bmw.com.tr/content/dam/bmw/common/all-models/m-series/xm/2023/highlights/bmw-x-series-xm-sp-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1681276545273.jpg",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/m-serisi/xm/2023/bmw-xm-label-red-genel-bakis.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "Z4 Roadster",
+        "kasa_tipi": "Roadster",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 6525900,
+        "resim_url": "https://www.bmw.com.tr/content/dam/bmw/common/all-models/z-series/roadster/2022/highlights/bmw-z-series-z4-roadster-sp-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1661435193091.jpg",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/z-series/roadster/2022/bmw-z4-genelbakis.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "M2 Coupé",
+        "kasa_tipi": "Coupé",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 15374200,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQCqtUDBCmtOWN%25PduaWhbNmNFvPo90y0c6bHi4T4eX9%25wc3y%25eiftxdTQ%25w178z3GqtECUkd2L7slGAzE%25CrXpFkazlZQ6KAn6XRaYWFONQ5nmP%25eIagOybfCBnvIT91dOO2B3iEzxIjedwOHdBDMztIajeqhk7BqgMLoACeLnhJHFlMJpou%25KXhndHSfWQogu%25V1PaH6GfNEbn%25YJ10s9OfqtE4riI1tiscZwBEg%25rxRtesJrZ857Mn80RUgChOq45GvloILUgp2XHB1Dv6jQ%25eTQ2YDafM34jmqn1hdxDyLOEo29qTJIsHjIL3uBr%25DsJdSeZ4gmuzVMRcGdSkNh5xWqVA0og8PXNF4HvUba0Kc%252GOz4WxfjpIBcP81D6psxbUEqYXO89GsLmzQUiprJyYDGw6ZuQTeptYRSaPP67m5VnHYYCygNO2UmlTv0TkUyX32438GTQdjcdER3azDxz40dnkq8khEzOALUAp%25kIFJGF62ABKupKIRFe0V2LuSOXId4pGwkCrm7AaCil6JTKGwgK4PGDoE9cvY30KE9InTDOYgMdvgL3hZtUDQGxbZOMVXuMwx9kYv6O4P05E4yCwXXRTne0IqQmSOP5EWagdI64XM6yvLB9lrE46hibKM4Kt2yUGCpLCqfCDlZya2wdqfkPGhEbzLuSDyem4uSVqIb5a6V8BoAPs8%25Vi18aSOfbYGdQ2BDFjTgH%25ekxh06F",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/m-serisi/bmw-2-serisi-m-modelleri/bmw-m2-coupe.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "M3 Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 13723900,
+        "resim_url": "https://www.bmw.com.tr/content/dam/bmw/common/all-models/m-series/m3-sedan/2022/highlights/bmw-3-series-sedan-m-automobiles-mc-product-highlights-m3-competition-hero-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1649169706938.jpg",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/m-serisi/m3-sedan/2022/bmw-3-serisi-sedan-m-otomobilleri-genel-bakis.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "7 Serisi Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 17456800,
+        "resim_url": "https://www.bmw.com.tr/content/dam/bmw/marketTR/common/kampanya/teaser/ocak-2023/main-banner/bmw-7-serisi-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1672738327871.jpg",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/the7/sedan/2022/bmw-7-serisi-sedan-bir-bakista.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "iX",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 7847300,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQCqtUDUkdX37slGAM9QCrXpFhiDlZQ6KoZpXRaYWHRYQ5nmP%25iRagOybfXEnvIT91AyO2B3inoTIjedwOQ2BDMztIa8eqhk7BqtMLoACeQchJHFlMNpou%25KXhiKHSfWQobY%25V1PaHrlfNEbn%25Zf10s9OfNZE4riI10YscZwBELUrxRtesg%25Z857MnHvRUgChOYU5GvloImQgp2XHBRbv6jQ%25JE82YDafu3Rjmqn1Sd9DyLOEVSBqTJIsNWiL3uBr0UPJdSeZWEYuzVMRVlnSkNh5FzDVA0ogKkcNF4HvWAX0KEfIhH%25kTAusRgfHmlDYNdmGy2oL4gpn4sxgeb7UrOjJE47UAzLekjnWuOnhJPX65e3gZ8XkWfTHWpZUVjO2ksxEa7sqmpTTQLzKEAM3D%25kxhWEdnuA2sTW2qOhFUyl7a2NG84Ws46Iq5gmvhmSBgvyXqdIpuMwVxgP78ShH%25eqKDsH%25fMA8ad2fRFbNxCRifGtRd%25kw8jgu3IFe0BLn9iKVZPE2S",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/i-series/ix/bmw-ix.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "8 Serisi Gran Coupé",
+        "kasa_tipi": "Gran Coupé",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 17896500,
+        "resim_url": "https://www.bmw.com.tr/content/dam/bmw/common/all-models/8-series/coupe/2022/onepager/bmw-8-series-coupe-onepager-sp-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1637681794134.jpg",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/8-serisi/coupe/2022/bmw-8-serisi-coupe-one-cikan-ozellikler.html"
+    },
+    {
+        "marka": "BMW",
+        "model": "X2",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 5678900,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQCqtUDUkUS37slGAGV9CrXpFptSlZQ6K6HeXRaYWFR1Q5nmPKJNagOybW5CnvIT9PgbO2B3ibMPIjedw9h8BDMztr90eqhk7ZnHMLoACRLkhJHFl5evou%25KXgc6HSfWQvbB%25V1PaHZsfNEbn%25hV10s9Of0JE4riI14oscZwBEhrrxRtesoPZ857MrFxRUgChZu15GvloRkcgp2XH5IDv6jQ%25gL92YDafMS6jmqn1hrJDyLOEozOqTJIsHkUL3uBr%25DpJdSeZ4EYuzVMRcvySkNh5xXTVA0og8PLNF4HvUbQ0Kc%252G9n4WxfjpGEcP81D63lxbUEqC2A89GsLlFFUiprJXMGGw6ZuQLoptYRSap767m5VmdxYCygNyc8mlTv0TfryX3243B%25TQdjcd8h3azDxzU5dnkq8kaszOALUBv7kIFJGeOyABKupMIPFe0V2LuSOXId4pGhkCrm7AaCil6JTKGwgK4PGDoE9cvY30KE9InTDOYgMdvgL3hZtUDQGxbZOMVXuMwx9kYv6O4P05E4yCwXXRTne0IqQmSOPLijagdI64XM6yvLB9lrE3vGi3KM4Kt2yUGCpLCeQYglZya2wdqfkPGhEbzLuSDyem4uSVqIb5a6V8BoAPs8%25Vi18aSOfbYGdQ2BDFjTgH%25ekxh06F",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/x-serisi/X2/bmw-x2-genel-bakis.html#technical-data"
+    },
+    {
+        "marka": "BMW",
+        "model": "i5 Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 5963700,
+        "resim_url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331LQAISFqIbe1KnRUQCqtUDBCmtOWN%25PduaWhbNm6hOPo90yYZvbHi4TmtY9%25wc3Ol7iftxdIfcw178zB9StECUkeMM7slGAtnQCrXpF7islZQ6KCZlXRaYWluEQ5nmPXRIagOybQ5unvIT9a1pO2B3inEOIjedwOhXBDMztPfjeqhk7bXHMLoAC9VRhJHFliNgou%25KXwMlHSfWQrOq%25V1PaZcMfNEbnRxT10s9O58dE4riIgkSscZwBvg7rxRte2yzZ857Mmj0RUgChyB05GvloT44gp2XH3Pvv6jQ%25jJr2YDafDsZjmqn1qiCDyLOELrKqTJIsJZXL3uBruTtJdSeZSP6uzVMRAdjSkNh5Fz4VA2onu8TWCA9%25UxJN4chIoKGIyqcnvzabenlO30AiyXqiGtySE5CpLdFUi5CoMAShdqfKLqNF12QmSBy672hfxI4fX6CPdL3hGtUD5GknXIIjAM%25UoVBzchtNf6eqKo3GIf3kLNHCOv5F31liifGiQJkmynTNn%25fB8O2keJXKVZPty157WN4cSk%25zG4cxVo7De3xYHEbtgYrxlRYechZ7dyKBJHS9uAqsr%25P61U39",
+        "site_detay_url": "https://www.bmw.com.tr/tr/all-models/bmw-i/i5/bir-bakista.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "A-Serisi Hatchback",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2350000,
+        "resim_url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/TR/177087/806/iris.png?q=COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZxeRZbMw3SGtle9tsd2HdcUfp8qXGEubSJ0l3IJOB2NMcbApjTlI5uVcZQC31grkzNBTwm7jA7mhKV5XN%25vq4t9yLRgcRYaxPa9rH1endn8wsbfoiZr51M4FnSrTg9o6n6PDCLuSeWznMtsd7ktcUfi%250XGE4TXJ0lg6ZOB2PbnbApe79I5ul6xQC3vT6khQZ27m%25kICfhKV0YV%25vqGDkzSqPWm7QEVdhKUHYf%25vycDEyLYXrlYarJv2rHnFwpn8oKEuoQAOaEVUPB3AQeI9iMiZ348L6LlGlmUrokehUbzIgVfOnw&imgt=P27&bkgnd=9&pov=BE040&uni=m&width=610&crop=",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/hatchback/a-class/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "A-Serisi Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2400000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/Turkey/Passenger%20Cars/a-class-fl/saloon/a-serisi-sedan.jpg/1744194969061.jpg?im=Crop,rect=(79,0,2399,1066);Resize=(2730,1213)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/saloon/a-class/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "C-Serisi Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 3600000,
+        "resim_url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/TR/206043/806/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjtwI5uVQDQC3qvQkzNwTVm7jZ7ZhKVFsM%25vq9UdyLRDO6Yax7aYrH1Kj1n8wsOfoiZUidM4FGCwTg90vZ6PDBSpSeWAtRtsd6HTcUfSX6XGEvaVJ0lL6tOB2az1bApenCI5usf2QC3UXQkzNGmnm7j0hShKVBHM%25vqA8qyLR5iHYaxC4prH1gObnMrEqioTnYHYM4FKRFTg97hN6PD47mSeWgaItsdR4qcUfGL6XGE0aBJ0lBHrOB2Ag2bAp5kwI5gZ8lXhRjwQZz2ITNpuoQ3pE7EJxJeRB5PVsRiD4Nhc8An&imgt=P27&bkgnd=9&pov=BE040&uni=m&width=610&crop=",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/saloon/c-class/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "EQE",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 5200000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/Turkey/Passenger%20Cars/homepage/EQE_stage_3840px1707px.jpg/1739897263465.jpg?im=Crop,rect=(0,0,3840,1707);Resize=(2730,1214)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/saloon/eqe/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "S-Serisi Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 10500000,
+        "resim_url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/TR/223163/806/iris.png?q=COSY-EU-100-1713d0VXq0WFqtyO67PobzIr3eWsrrCsdRRzwQZUnRZbMw3SGtle2tsd2vtcUfp8cXGEubYJ0l36xOB2NS5bApjIXI5uVKIQC3qvWkzNwTnm7jZ6IhKVFsM%25vq9UkyLRDGfYaxWbSrH1KJtn8wvOyoiZLbgM4Fa4MTg9Hvk6PD8cqSeWiyMtsd5hQcUfCUuXGEzbjJ0l7IJOB2KW%25bApvdXI5uLQJQC3akWkzNImbm7jgevhKVPs9%25vqeIkyLR5cHYaxCaWrH1zMdn8w7QwoiZKq1M4FvywTg9L6O6PDaSoSeWHthtsd8BQcUfiA0XGE45dJ0ldItOB2fMqbAp7AbI5uKMTQmIwlzkhQb5nm7jGGfhKVUXd%25vqE7FyLRaLXYaxH0ErH18Bin8wiz2oiCpBxySfD2MpgO2gewZbMFwRPRYEY7fHizWKfAN59S%25B8O&imgt=P27&bkgnd=9&pov=BE040&uni=m&width=610&crop=",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/saloon/s-class/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "CLA Coupé",
+        "kasa_tipi": "Coupé",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2800000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/cla/cla-coupe-c118-fl-pi/overview/highlights/02-2023/images/mercedes-benz-cla-coupe-c118-highlights-exterior-3302x1858-02-2023.jpg/1740017924598.jpg?im=Crop,rect=(0,0,3302,1857);Resize=(1280,720)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/coupe/cla/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "CLE Coupé",
+        "kasa_tipi": "Coupé",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 4500000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/cle/cle-coupe-c236-pi/spa-highlights/02-2025/images/mercedes-benz-cle-coupe-c236-spa-highlights-rear-2400x2400-02-2025.jpg?im=Resize,width=1014",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/coupe/cle/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "AMG GT Coupé",
+        "kasa_tipi": "Coupé",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 14800000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/amg-gt/amg-gt-2-doors-coupe-c192/overview/highlights/07-2023/images/mercedes-amg-gt-c192-higlights-exterior-3302x1858-07-2023.jpg/1740018616652.jpg?im=Crop,rect=(0,0,3302,1857);Resize=(1280,720)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/coupe/amg-gt-2-door/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "GLA",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 3100000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/gla/gla-suv-h247-fl-pi/overview/highlights/03-2023/images/mercedes-gla-h247-teaser-exterior-3302x1858-03-2023.jpg/1740017923812.jpg?im=Crop,rect=(0,0,3302,1857);Resize=(1280,720)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/suv/gla/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "GLB",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 3400000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/glb/glb-suv-x247-fl-pi/overview/stage/03-2023/images/mercedes-benz-glb-x247-stage-3840x1707-03-2023.jpg/1740017927418.jpg?im=Crop,rect=(9,1269,3831,1704);Resize=(2730,1214)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/suv/glb/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "GLC SUV",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 4200000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/glc/glc-suv-x254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-suv-x254-spa-highlights-exterior-2400x2400-02-2025.jpg?im=Resize,width=1184",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/suv/glc/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "GLE SUV",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 6800000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/gle/gle-suv-v167-fl-pi/overview/highlights/01-2023/images/mercedes-benz-gle-suv-v167-highlights-exterior-3302x1858-01-2023.jpg/1740017292774.jpg?im=Crop,rect=(0,0,3302,1857);Resize=(1280,720)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/suv/gle/overview.html"
+    },
+    {
+        "marka": "Mercedes-Benz",
+        "model": "EQS Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 8000000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/eqs/eqs-v297-pi/overview/spa-highlights/04-2025/images/mercedes-benz-eqs-v297-spa-highlights-exterior-2400x2400-04-2025.jpg?im=Resize,width=1184",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/saloon/eqs/overview.html"
+    },
+    {
+        "marka": "Mercedes-AMG",
+        "model": "AMG A 45 S Hatchback",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 12250980,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/a-class/hatchback-w177-fl-pi/amg/teaser/08-2022/images/mercedes-amg-a-class-w177-teaser-exterior-3302x1858-08-2022.jpg/1740016857858.jpg?im=Crop,rect=(0,103,3302,1651);Resize=(1680,840)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/hatchback/a-class/amg.html"
+    },
+    {
+        "marka": "Mercedes-AMG",
+        "model": "AMG GT",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 17500000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/amg-gt/x290/SR/04-2019/explore/models/images/mercedes-amg-gt-x290-models-amg-gt-43-contentpager-2730x1536-04-2019.jpg/1740011131102.jpg?im=Crop,rect=(0,0,2730,1536);Resize=(1280,720)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/coupe/amg-gt/overview.html"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "Maybach S-Serisi",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 40500000,
+        "resim_url": "https://www.mercedes-benz.com.tr/content/dam/hq/passengercars/cars/s-class/mercedes-maybach-s-class-z223-pi/overview/teaser/10-2022/images/mercedes-maybach-s-class-z223-teaser-exterior-3302x1858-10-2022.jpg/1740016725666.jpg?im=Crop,rect=(0,0,3302,1857);Resize=(1280,720)",
+        "site_detay_url": "https://www.mercedes-benz.com.tr/passengercars/models/saloon/mercedes-maybach-s-class/overview.html"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Fabia",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1249900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages//modelDetail/fabia-24/kadife_kirmizisi_mc-hero.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/fabia"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Scala",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1399900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages/modelDetail/scala/scala-hero.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/scala"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Octavia",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1799900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/models/octavia-24/sportline_yaris_mavisi1.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/octavia"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Superb Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2399900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages/modelDetail/Superb-24/superb_banner.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/superb"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Superb Combi",
+        "kasa_tipi": "Estate",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 2799900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/models/superb-24/equipments//CombiPrestige/Prestige_Combi_ice_tea_sari-dis.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/superb"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Superb Plug-in Hibrit",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2999900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages/modelDetail/Superb-24/PHEV_Gallery/PHEV_1.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/superb#dis-gorunum-pluginhybrid"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Kamiq",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1649900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/models/Kamiq-2024/Kadife_Kirmizi.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/kamiq"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Karoq",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1999900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages/modelDetail/karoq/Karoq-prestige_dis-hero.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/karoq"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Kodiaq",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2499900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages/modelDetail/Kodiaq-24/Ana_sayfa_hero.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/kodiaq"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Enyaq",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 2599900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages/modelDetail/enyaq/Olibo_Yesili.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/enyaq"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Enyaq Coupé",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 2799900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages/modelDetail/enyaq-coupe/Kadife_Kirmizi.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/enyaq-coupe"
+    },
+    {
+        "marka": "Škoda",
+        "model": "Elroq",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1849900,
+        "resim_url": "https://cdn.skoda.com.tr/assets/pages/modelDetail/elroq/timiano_yesil.webp",
+        "site_detay_url": "https://www.skoda.com.tr/modeller/elroq"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Polo",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1252000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_polo_stage_gorsel_yeni?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249LTAuODMsMC4wMCZiZmM9b2ZmJmNhNzc=",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-polo.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Polo",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1352000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_polo_stage_gorsel_yeni?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249LTAuODMsMC4wMCZiZmM9b2ZmJmNhNzc=",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-polo.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Golf",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1947000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_yeni_golf_galeri_1?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTEyODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmMzI3Yw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-golf.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Golf",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2147000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_yeni_golf_galeri_1?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTEyODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmMzI3Yw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-golf.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Golf R",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 5350000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_stage?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/vw-yeni-golf-r.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "T-Cross",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1632000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_t_cross_galeri_gorseli_2?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-t-cross.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Taigo",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1792000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_taigo_stage_gorseli?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/taigo.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "T-Roc",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2072000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_yeni_t_roc_stage_gorseli?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-t-roc.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Tiguan",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2947000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_tiguan_header_desktop_yeni?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/vw-yeni-tiguan.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Tayron",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 3200000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_tayron_stage?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-tayron.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Passat Variant",
+        "kasa_tipi": "Estate",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 2897000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_passat_galeri_gorseli_1?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTEyODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmMzI3Yw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-passat.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Touareg",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 5472000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_touareg_header_desktop_yeni?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/yeni-touareg.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "ID.4",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1972000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1080_header_1?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/id4.html"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "ID.7",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3472000,
+        "resim_url": "https://assets.volkswagen.com/is/image/volkswagenag/1920x1152_id7-exterior-back?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTEyODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmMzI3Yw==",
+        "site_detay_url": "https://binekarac.vw.com.tr/tr/modeller-fiyatlar/arac-modelleri/id-7.html"
+    },
+    {
+        "marka": "SsangYong",
+        "model": "Korando",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1690000,
+        "resim_url": "https://www.ssangyong.com.tr/storage/images/modeller/2024/11/21/korando673ee2c06bf12.png",
+        "site_detay_url": "https://www.ssangyong.com.tr/korando"
+    },
+    {
+        "marka": "SsangYong",
+        "model": "Korando",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1890000,
+        "resim_url": "https://www.ssangyong.com.tr/storage/images/modeller/2024/11/21/korando673ee2c06bf12.png",
+        "site_detay_url": "https://www.ssangyong.com.tr/korando"
+    },
+    {
+        "marka": "SsangYong",
+        "model": "Torres",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2450000,
+        "resim_url": "https://www.ssangyong.com.tr/storage/images/modeller/2024/11/21/torres673ee26944a29.png",
+        "site_detay_url": "https://www.ssangyong.com.tr/torres"
+    },
+    {
+        "marka": "SsangYong",
+        "model": "Torres EVX",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 2600000,
+        "resim_url": "https://www.ssangyong.com.tr/storage/images/modeller/2024/11/21/torres-evx673ee21f6f15c.png",
+        "site_detay_url": "https://www.ssangyong.com.tr/torres-evx"
+    },
+    {
+        "marka": "SsangYong",
+        "model": "Musso Grand",
+        "kasa_tipi": "Pick-up",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 2700000,
+        "resim_url": "https://www.ssangyong.com.tr/storage/images/modeller/2024/11/21/musso-grand673ee6f87dbdf.png",
+        "site_detay_url": "https://www.ssangyong.com.tr/musso-grand"
+    },
+    {
+        "marka": "SsangYong",
+        "model": "Tivoli",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1450000,
+        "resim_url": "https://www.ssangyong.com.tr/storage/images/modeller/2024/11/21/tivoli673ee28a5d4a3.png",
+        "site_detay_url": "https://www.ssangyong.com.tr/tivoli"
+    },
+    {
+        "marka": "SsangYong",
+        "model": "Tivoli",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1550000,
+        "resim_url": "https://www.ssangyong.com.tr/storage/images/modeller/2024/11/21/tivoli673ee28a5d4a3.png",
+        "site_detay_url": "https://www.ssangyong.com.tr/tivoli"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 7 Pro Max",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1849000,
+        "resim_url": "https://cherytr.com/application/themes/mediaclick/assets/img/t7-pro-max/renk-secenekleri-1/siyah.png",
+        "site_detay_url": "https://cherytr.com/modeller/tiggo/tiggo7-pro-max"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 8 Pro Max",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2299000,
+        "resim_url": "https://cherytr.com/application/themes/mediaclick/assets/img/t8-pro-max/renk-secenekleri-3/mor.png",
+        "site_detay_url": "https://cherytr.com/modeller/tiggo/tiggo8-pro-max"
+    },
+    {
+        "marka": "Chery",
+        "model": "Omoda 5",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1999000,
+        "resim_url": "https://cherytr.com/application/files/8917/2140/7871/omoda-5-pro-tek-parca-elmas-izgara.jpg",
+        "site_detay_url": "http://cherytr.com/modeller/omoda/omoda-5-pro"
+    },
+    {
+        "marka": "Chery",
+        "model": "Omoda 5 EV",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 2149000,
+        "resim_url": "https://cherytr.com/application/themes/mediaclick/assets/img/omoda-5-pro/renk-secenekleri-1/beyaz-siyah.png",
+        "site_detay_url": "http://cherytr.com/modeller/omoda/omoda-5-pro"
+    },
+    {
+        "marka": "Jaecoo",
+        "model": "7",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1920000,
+        "resim_url": "https://jaecodora.doracdn.com/jaecoo-j7/s6-2-yeni-1.webp",
+        "site_detay_url": "https://jaecoo.com.tr/jaecoo-7"
+    },
+    {
+        "marka": "Jaecoo",
+        "model": "7",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2099000,
+        "resim_url": "https://jaecodora.doracdn.com/jaecoo-j7/s6-2-yeni-1.webp",
+        "site_detay_url": "https://jaecoo.com.tr/jaecoo-7"
+    },
+    {
+        "marka": "Ford",
+        "model": "Focus Hatchback",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1936900,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/7a0667be-7709-4558-a66a-d61a2827572f/ford_focus_2024_hero_desktop.webp.aspx?ext=.webp~/getmedia/7a0667be-7709-4558-a66a-d61a2827572f/ford_focus_2024_hero_desktop.webp.aspx?ext=.webp",
+        "site_detay_url": "https://www.ford.com.tr/otomobiller/ford-focus"
+    },
+    {
+        "marka": "Ford",
+        "model": "Focus Hatchback",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2235200,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/7a0667be-7709-4558-a66a-d61a2827572f/ford_focus_2024_hero_desktop.webp.aspx?ext=.webp~/getmedia/7a0667be-7709-4558-a66a-d61a2827572f/ford_focus_2024_hero_desktop.webp.aspx?ext=.webp",
+        "site_detay_url": "https://www.ford.com.tr/otomobiller/ford-focus"
+    },
+    {
+        "marka": "Ford",
+        "model": "Focus Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2039300,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/722f1cbc-ee44-4748-b19c-95926edc85db/CGE02BS_FCVS_D4PN4FT_1_2-(1)-(1).webp.aspx?ext=.webp~/getmedia/722f1cbc-ee44-4748-b19c-95926edc85db/CGE02BS_FCVS_D4PN4FT_1_2-(1)-(1).webp.aspx?ext=.webp",
+        "site_detay_url": "https://www.ford.com.tr/otomobiller/ford-focus"
+    },
+    {
+        "marka": "Ford",
+        "model": "Puma",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1550000,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/6b6b2850-7247-4695-9d9b-62a6a86e7e0c/PumaMCAModeller.webp.aspx?ext=.webp~/getmedia/6b6b2850-7247-4695-9d9b-62a6a86e7e0c/PumaMCAModeller.webp.aspx?ext=.webp",
+        "site_detay_url": "https://www.ford.com.tr/suv/yeni-puma"
+    },
+    {
+        "marka": "Ford",
+        "model": "Puma Gen-E",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1593100,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/6b6b2850-7247-4695-9d9b-62a6a86e7e0c/PumaMCAModeller.webp.aspx?ext=.webp~/getmedia/6b6b2850-7247-4695-9d9b-62a6a86e7e0c/PumaMCAModeller.webp.aspx?ext=.webp",
+        "site_detay_url": "https://www.ford.com.tr/suv/yeni-puma"
+    },
+    {
+        "marka": "Ford",
+        "model": "Kuga",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 3250000,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/386f5940-d00b-4563-9669-68748b1a0dcc/kuga.png.aspx?width=668&height=376&ext=.png~/getmedia/386f5940-d00b-4563-9669-68748b1a0dcc/kuga.png.aspx?width=668&height=376&ext=.png",
+        "site_detay_url": "https://www.ford.com.tr/suv/yeni-kuga"
+    },
+    {
+        "marka": "Ford",
+        "model": "Explorer",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1820000,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/8c395789-7320-4dff-a75e-fe1cf7388cf6/Explorer.webp.aspx?ext=.webp~/getmedia/8c395789-7320-4dff-a75e-fe1cf7388cf6/Explorer.webp.aspx?ext=.webp",
+        "site_detay_url": "https://www.ford.com.tr/ford-store-araclar/yeni-explorer"
+    },
+    {
+        "marka": "Ford",
+        "model": "Capri",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1920000,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/fb84d9d9-a8b6-4a3a-b396-fac293e75ffd/Capri.webp.aspx?ext=.webp~/getmedia/fb84d9d9-a8b6-4a3a-b396-fac293e75ffd/Capri.webp.aspx?ext=.webp",
+        "site_detay_url": "https://www.ford.com.tr/ford-store-araclar/yeni-capri"
+    },
+    {
+        "marka": "Ford",
+        "model": "Mustang Mach-E",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3956000,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/d5f22376-ec73-4ff4-9f23-f589c08fdbb4/Mustang-Mach-E_1.png.aspx?width=668&height=376&ext=.png&ext=.png&ext=.png&ext=.png~/getmedia/d5f22376-ec73-4ff4-9f23-f589c08fdbb4/Mustang-Mach-E_1.png.aspx?width=668&height=376&ext=.png&ext=.png&ext=.png&ext=.png",
+        "site_detay_url": "https://www.ford.com.tr/elektrikli-araclar/mustang-mach-e"
+    },
+    {
+        "marka": "Ford",
+        "model": "E-Tourneo Courier",
+        "kasa_tipi": "MPV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1685000,
+        "resim_url": "https://cdnepws.azureedge.net/getmedia/28700208-5214-458e-a622-19e85890db59/E-Tourneo-Courier-Modeller.png.aspx?width=668&height=378&ext=.png~/getmedia/28700208-5214-458e-a622-19e85890db59/E-Tourneo-Courier-Modeller.png.aspx?width=668&height=378&ext=.png",
+        "site_detay_url": "https://www.ford.com.tr/ticari-araclar/e-tourneo-courier"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Egea Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 799900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/tr/egea/mobile.png/jcr:content/renditions/desktop.png",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/egea/sedan"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Egea Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1172900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/tr/egea/mobile.png/jcr:content/renditions/desktop.png",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/egea/sedan"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Egea Hatchback",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 879900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/tr/egea/egea-banner/mayis/mobile.jpg/jcr:content/renditions/desktop.jpg",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/egea"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Egea Hatchback",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1284900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/tr/egea/egea-banner/mayis/mobile.jpg/jcr:content/renditions/desktop.jpg",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/egea"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Egea Cross",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 959900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/tr/egea/egea_cr_limited.jpg",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/egea/cross"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Egea Cross Wagon",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1349900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/tr/egea/egea_cr_street.jpg",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/egea/cross"
+    },
+    {
+        "marka": "Fiat",
+        "model": "500",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1199900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/cross/models/new-500/new500/colorizer/figurini/s1-a1-b1.jpg",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/elektrikli-500e"
+    },
+    {
+        "marka": "Fiat",
+        "model": "500e",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1399900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/cross/models/new-500/new500/colorizer/figurini/s1-a1-b1.jpg",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/elektrikli-500e"
+    },
+    {
+        "marka": "Fiat",
+        "model": "500X",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1499900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/cross/models/500x/500x/colorizer/figurini/s1-a1-b1.jpg",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/500X"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Topolino",
+        "kasa_tipi": "Quadricycle",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 510900,
+        "resim_url": "https://www.otomobil.fiat.com.tr/content/dam/fiat2023/tr/modeller/topolino/canvas/1/mobile.jpg/jcr:content/renditions/desktop.jpg",
+        "site_detay_url": "https://www.otomobil.fiat.com.tr/modeller/topolino"
+    },
+    {
+        "marka": "Renault",
+        "model": "Clio",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1099000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/grade_carrousel_main_1_medium/grade_carrousel_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FCL5%2Fyeni-clio%2Fc%2FA-ENS_0MDL2P1SERIELIM3_-TERQH",
+        "site_detay_url": "https://www.renault.com.tr/hybrid-araclar/yeni-clio-e-tech/modeller-versiyonlar.html?gradeCode=ENS_MDL2P1SERIELIM2"
+    },
+    {
+        "marka": "Renault",
+        "model": "Clio",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1499000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/grade_carrousel_main_1_medium/grade_carrousel_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FCL5%2Fyeni-clio%2Fc%2FA-TEKQJ-ENS_0MDL2P1SERIELIM2_",
+        "site_detay_url": "https://www.renault.com.tr/hybrid-araclar/yeni-clio-e-tech/modeller-versiyonlar.html?gradeCode=ENS_MDL2P1SERIELIM2"
+    },
+    {
+        "marka": "Renault",
+        "model": "Captur",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1664000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FCP1%2Fyeni-captur%2Fc%2FA-ENS_0MDL2P1SERIELIM3_-BIYNM",
+        "site_detay_url": "https://www.renault.com.tr/hybrid-araclar/captur-e-tech.html"
+    },
+    {
+        "marka": "Renault",
+        "model": "Megane Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1837000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FFF1%2Fmegane-sedan%2Fc%2FA-TERPR-ENS_0MDL2P1SERIELIM2_",
+        "site_detay_url": "https://www.renault.com.tr/binek-araclar/yeni-megane-sedan.html"
+    },
+    {
+        "marka": "Renault",
+        "model": "Megane Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 2062000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FFF1%2Fmegane-sedan%2Fc%2FA-TERPR-ENS_0MDL2P1SERIELIM2_",
+        "site_detay_url": "https://www.renault.com.tr/binek-araclar/yeni-megane-sedan.html"
+    },
+    {
+        "marka": "Renault",
+        "model": "Austral",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2399000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FHN1%2Fyeni-austral%2Fc%2FA-ENS_0MDL2P1SERIELIM2_-BIYVM",
+        "site_detay_url": "https://www.renault.com.tr/hybrid-araclar/yeni-renault-austral.html"
+    },
+    {
+        "marka": "Renault",
+        "model": "Duster",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1249000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_XLARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FRD3%2Fyeni-duster%2Fc%2FA-ENS_0MDL2P1SERIELIM1_-TEDQK",
+        "site_detay_url": "https://www.renault.com.tr/hybrid-araclar/yeni-renault-duster.html"
+    },
+    {
+        "marka": "Renault",
+        "model": "Duster",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1664000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_XLARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FRD3%2Fyeni-duster%2Fc%2FA-ENS_0MDL2P1SERIELIM1_-TEDQK",
+        "site_detay_url": "https://www.renault.com.tr/hybrid-araclar/yeni-renault-duster.html"
+    },
+    {
+        "marka": "Renault",
+        "model": "Rafale",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2650000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FDN1%2Frafale%2Fc%2FA-ENS_0MDL2P1SERIELIM1_-BIYXR",
+        "site_detay_url": "https://www.renault.com.tr/hybrid-araclar/rafale.html"
+    },
+    {
+        "marka": "Renault",
+        "model": "Megane E-Tech",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1651000,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Ftr.co.rplug.renault.com%2Fproduct%2Fmodel%2FZO1%2Fyeni-megane-e-tech-100-elektrikli%2Fc%2FA-ENS_0MDL2P1SERIELIM2_-BIYWU",
+        "site_detay_url": "https://www.renault.com.tr/elektrikli-araclar/megane-e-tech-elektrikli.html"
+    },
+    {
+        "marka": "Renault",
+        "model": "Renault 5 E-Tech",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1300500,
+        "resim_url": "https://www.renault.com.tr/agg/vn/unique/ONE_DACIA_PP_LARGE_DENSITY2/r_brandSite_carPicker_1.png?uri=https%3A%2F%2Fcdn.group.renault.com%2Fpackshots%2Frenault-r5",
+        "site_detay_url": "https://www.renault.com.tr/elektrikli-araclar/r5-e-tech-elektrikli.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "208",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1210500,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/Yeni208_810_455.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/208.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "208",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1399900,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/Yeni208_810_455.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/208.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "308",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1850000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/new-308-baseball.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/308.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "308",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1565000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/new-308-baseball.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/308.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "408",
+        "kasa_tipi": "Fastback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2350000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/408_810x455.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/408.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "408",
+        "kasa_tipi": "Fastback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2650000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/408_810x455.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/408.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "2008",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1750000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/master/b2c/our-range/showroom/new-2008/france/2008_GT_EV_car_selector.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/2008.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "2008",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1950000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/master/b2c/our-range/showroom/new-2008/france/2008_GT_EV_car_selector.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/2008.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "3008",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2190000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/yeni-3008/yeni3008_810x455.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/3008.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "3008",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1865000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/yeni-3008/yeni3008_810x455.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/3008.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "3008",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2555000,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/yeni-3008/yeni3008_810x455.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/3008.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "5008",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2936500,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/yeni_5008/810x455_Baseball_Card.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/5008.html"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "5008",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 2936500,
+        "resim_url": "https://www.peugeot.com.tr/content/dam/peugeot/turkey/b2c/our-range/baseball/2024/yeni_5008/810x455_Baseball_Card.png",
+        "site_detay_url": "https://www.peugeot.com.tr/peugeot-modelleri/5008.html"
+    },
+    {
+        "marka": "BYD",
+        "model": "Dolphin Comfort",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1365000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/byd-dolphin-model-menu.png",
+        "site_detay_url": "https://www.bydauto.com.tr/dolphin"
+    },
+    {
+        "marka": "BYD",
+        "model": "Dolphin Design",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1470000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/byd-dolphin-model-menu.png",
+        "site_detay_url": "https://www.bydauto.com.tr/dolphin"
+    },
+    {
+        "marka": "BYD",
+        "model": "Atto 3 Design",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1710000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/atto3-2024my-model-menu.jpg",
+        "site_detay_url": "https://www.bydauto.com.tr/atto3"
+    },
+    {
+        "marka": "BYD",
+        "model": "Seal U EV Design",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1925000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/seal-u.jpg",
+        "site_detay_url": "https://www.bydauto.com.tr/sealu-ev"
+    },
+    {
+        "marka": "BYD",
+        "model": "Seal U DM-i 1.5L Design",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2115000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/seal-u-dm-i-titanyumgri.jpg",
+        "site_detay_url": "https://www.bydauto.com.tr/sealu-dmi"
+    },
+    {
+        "marka": "BYD",
+        "model": "Seal U DM-i AWD 1.5T Design",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2845000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/seal-u-dm-i-titanyumgri.jpg",
+        "site_detay_url": "https://www.bydauto.com.tr/sealu-dmi"
+    },
+    {
+        "marka": "BYD",
+        "model": "Seal Design",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1850000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/byd-seal.jpg",
+        "site_detay_url": "https://www.bydauto.com.tr/seal"
+    },
+    {
+        "marka": "BYD",
+        "model": "Seal AWD Excellence",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3090000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/byd-seal.jpg",
+        "site_detay_url": "https://www.bydauto.com.tr/seal"
+    },
+    {
+        "marka": "BYD",
+        "model": "Han Executive",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3750000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/han.jpg",
+        "site_detay_url": "https://www.bydauto.com.tr/han"
+    },
+    {
+        "marka": "BYD",
+        "model": "Tang Flagship",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 4220000,
+        "resim_url": "https://www.bydauto.com.tr/storage/model-menu/tang.jpg",
+        "site_detay_url": "https://www.bydauto.com.tr/tang"
+    },
+    {
+        "marka": "Dacia",
+        "model": "Jogger",
+        "kasa_tipi": "Station Wagon",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1563000,
+        "resim_url": "https://cdn.group.renault.com/dac/master/dacia-vn/vehicules/jogger-doba/hero-zone/dacia-jogger-rji-ph1-hero-zone-001-desktop.jpg.ximg.largex2.webp/d68252ce6b.webp",
+        "site_detay_url": "https://www.dacia.com.tr/modeller/jogger.html"
+    },
+    {
+        "marka": "Dacia",
+        "model": "Sandero Stepway",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1326000,
+        "resim_url": "https://cdn.group.renault.com/dac/tr/dacia-new-cars/editorial/sandero-stepway/xji/tr-dacia-sandero-stepway-xji-20.jpg.ximg.mediumx2.webp/5a9bd964f8.webp",
+        "site_detay_url": "https://www.dacia.com.tr/modeller/yeni-sandero-stepway.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "Picanto 1.0L 63 PS AMT Feel",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1160000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/gt/en/images/showroom/Picanto-jape2-24my/Features/overview/picanto-mainKV-24my-pc.jpg",
+        "site_detay_url": "https://www.kia.com/tr/modeller/yeni-picanto/ozellikler.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "Picanto 1.2L 79 PS AMT Cool",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1230000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/gt/en/images/showroom/Picanto-jape2-24my/Features/overview/picanto-mainKV-24my-pc.jpg",
+        "site_detay_url": "https://www.kia.com/tr/modeller/yeni-picanto/ozellikler.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "Stonic 1.0L 100 PS DCT Cool",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1460000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/tr/tr/images/showroom/stonic/2023/genel-bakis/Kia_Stonic_Ana_Gorsel_1920x1200_r1.jpg",
+        "site_detay_url": "https://www.kia.com/tr/modeller/stonic.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "Stonic 1.0L 100 PS DCT Business",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1540000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/tr/tr/images/showroom/stonic/2023/genel-bakis/Kia_Stonic_Ana_Gorsel_1920x1200_r1.jpg",
+        "site_detay_url": "https://www.kia.com/tr/modeller/stonic.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "XCeed 1.5L 140 PS DCT Cool Plus",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1618000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/tr/tr/images/showroom/xceed/2022/genel-bakis/Kia_XCeed_Hero_G%C3%BCncelleme_1920x1100_r2.jpg",
+        "site_detay_url": "https://www.kia.com/tr/modeller/xceed/ozellikler.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "XCeed 1.5L 140 PS DCT Elegance Plus",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1793000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/tr/tr/images/showroom/xceed/2022/genel-bakis/Kia_XCeed_Hero_G%C3%BCncelleme_1920x1100_r2.jpg",
+        "site_detay_url": "https://www.kia.com/tr/modeller/xceed/ozellikler.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "Niro EV 150 kW Elegance",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1724000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/tr/tr/images/showroom/niro-ev/360/snowpearlbeyaz/960x438-_0070_kia-niro-ev-sx-my23-swpsnowwhitepearl-17_0001.png",
+        "site_detay_url": "https://www.kia.com/tr/modeller/niro-ev/ozellikler.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "Niro EV 150 kW Elegance Plus",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1764000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/tr/tr/images/showroom/niro-ev/360/snowpearlbeyaz/960x438-_0070_kia-niro-ev-sx-my23-swpsnowwhitepearl-17_0001.png",
+        "site_detay_url": "https://www.kia.com/tr/modeller/niro-ev/ozellikler.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "EV3 150 kW Elegance Standard Range",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1645000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/tr/tr/images/showroom/360vr/ev3/ext/aurablackpearl/EV3_AB00001.png",
+        "site_detay_url": "https://www.kia.com/tr/modeller/ev3/ozellikler.html"
+    },
+    {
+        "marka": "Kia",
+        "model": "EV3 150 kW Elegance Long Range",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1850000,
+        "resim_url": "https://www.kia.com/content/dam/kwcms/tr/tr/images/showroom/360vr/ev3/ext/aurablackpearl/EV3_AB00001.png",
+        "site_detay_url": "https://www.kia.com/tr/modeller/ev3/ozellikler.html"
+    },
+    {
+        "marka": "Opel",
+        "model": "Corsa 1.2 100 HP MT6 Edition",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1283000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/corsa_1.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/corsa?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Corsa 1.2 100 HP AT8 GS",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1532000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/corsa_1.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/corsa?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Corsa-e 100 kW GS",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1504000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/630x330-opel-corsa-e.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/corsa-e?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Astra 1.2 130 HP AT8 GS",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1925000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/astra-630x330.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/astra?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Astra Elektrik 115 kW Ultimate",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1829000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/astra-e-630x330_v2.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/astra-elektrik?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Yeni Mokka 1.2 130 HP AT8 GS",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1919000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/yeni-mokka.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-mokka?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Yeni Grandland Hybrid 1.2 136 HP e-DCT6 GS",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 2411000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/yeni-grandland-d.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-grandland-hybrid?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Yeni Grandland Elektrik 157 kW GS",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 2570000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/e-yeni-grandland-d.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-grandland-elektrik?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Yeni Frontera Hybrid 1.2 145 HP GS",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1780000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/frontera-hybrid-d.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/frontera-hybrid?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Yeni Frontera Elektrik 83 kW GS",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1345000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/e-frontera-d.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/frontera-elektrik?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Combo 1.5 130 HP Dizel MT6 Essential",
+        "kasa_tipi": "MPV",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1276000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/yeni-combo.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-combo?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Combo 1.5 130 HP Dizel AT8 Ultimate",
+        "kasa_tipi": "MPV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1730000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/yeni-combo.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-combo?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Combo Elektrik 100 kW Edition",
+        "kasa_tipi": "MPV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 1694000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/yeni-combo_elektrik.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-combo-elektrik?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Combo Cargo 1.5 130 HP Dizel MT6 Edition",
+        "kasa_tipi": "Panelvan",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1079000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/yeni-combo_cargo.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-combo-cargo?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Combo Cargo 1.5 130 HP Dizel AT8 Ultimate XL",
+        "kasa_tipi": "Panelvan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1260000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/yeni-combo_cargo.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-combo-cargo?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Vivaro Cargo 1.5 120 HP Dizel MT6 Ultimate",
+        "kasa_tipi": "Panelvan",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1324000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/vivaro.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-vivaro-cargo?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Vivaro Cargo 2.0 180 HP Dizel AT8 Ultimate XL",
+        "kasa_tipi": "Panelvan",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1562000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/vivaro.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-vivaro-cargo?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Vivaro City Van 2.0 145 HP Dizel MT6 Ultimate XL",
+        "kasa_tipi": "Panelvan",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1691000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/vivaro-city-van_630x330.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/vivaro-city-van?"
+    },
+    {
+        "marka": "Opel",
+        "model": "Movano 2.2 180 HP Dizel MT6 L4H2 15m3",
+        "kasa_tipi": "Panelvan",
+        "vites_tipi": "Manuel",
+        "yakit_tipi": "Dizel",
+        "fiyat": 1555000,
+        "resim_url": "https://fiyatlisteleri.opel.com.tr/Assets/img/movano_630x330.png",
+        "site_detay_url": "https://fiyatlisteleri.opel.com.tr/arac/yeni-movano?"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Ibiza 1.0 EcoTSI 110 PS DSG FR",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1190000,
+        "resim_url": "https://fs.seat.com.tr/seatweb_files/202161712425560_twocolumnsimage.resizedViewPort.scale.assetRootXL%20(3).jpg",
+        "site_detay_url": "https://www.seat.com.tr/modeller/ibiza/ibiza"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Arona 1.0 EcoTSI 110 PS DSG Xperience",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 1390000,
+        "resim_url": "https://fs.seat.com.tr/seatweb_files/2022721104610899_heroproductimage.resizedViewPort.noscale.assetRootXL.jpg",
+        "site_detay_url": "https://www.seat.com.tr/modeller/arona/arona"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Leon 1.5 eTSI 116 PS DSG FR",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1940000,
+        "resim_url": "https://fs.seat.com.tr/seatweb_files/202012713511288_assetRootXL.jpg",
+        "site_detay_url": "https://www.seat.com.tr/modeller/leon/leon"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Leon 1.5 eHybrid 204 PS DSG FR",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 1985000,
+        "resim_url": "https://fs.seat.com.tr/seatweb_files/202012713511288_assetRootXL.jpg",
+        "site_detay_url": "https://www.seat.com.tr/modeller/leon/leon"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Ateca 1.5 EcoTSI ACT 150 PS DSG Xperience",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2180000,
+        "resim_url": "https://fs.seat.com.tr/seatweb_files/202081215258187_RootXL.jpg",
+        "site_detay_url": "https://www.seat.com.tr/modeller/ateca/ateca"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Ateca 1.5 EcoTSI ACT 150 PS DSG FR Dark Edition",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Benzinli",
+        "fiyat": 2430000,
+        "resim_url": "https://fs.seat.com.tr/seatweb_files/202081215258187_RootXL.jpg",
+        "site_detay_url": "https://www.seat.com.tr/modeller/ateca/ateca"
+    },
+    {
+        "marka": "Volvo",
+        "model": "EC40 Single Motor Extended Range Ultra",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3225280,
+        "resim_url": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt181693d3eb0ec4f4/66d32de8ad9ec2efc21e24b2/ec40-electric-gallery-6-16x9.jpg?branch=prod_alias&auto=avif&quality=85&format=webp&iar=0&w=1920&imdensity=1",
+        "site_detay_url": "https://www.volvocars.com/tr/cars/ec40-electric/"
+    },
+    {
+        "marka": "Volvo",
+        "model": "EC40 Twin Motor Ultra",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3948435,
+        "resim_url": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt181693d3eb0ec4f4/66d32de8ad9ec2efc21e24b2/ec40-electric-gallery-6-16x9.jpg?branch=prod_alias&auto=avif&quality=85&format=webp&iar=0&w=1920&imdensity=1",
+        "site_detay_url": "https://www.volvocars.com/tr/cars/ec40-electric/"
+    },
+    {
+        "marka": "Volvo",
+        "model": "EX40 Single Motor Extended Range Ultra",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3145446,
+        "resim_url": "https://cas.volvocars.com/image/dynamic/MY25_2417/536/exterior-v1/RB/74300/R78000/R190/FN02/TC06/2G03/_/TP05/_/_/GR08/T101/TJ02/NP02/TM04/_/CB04/EV02/JB0A/T201/LF05/_/VP07/FH01/_/_/_/_/_/default.jpg?market=tr&client=pdps&angle=103&w=1920&imdensity=1",
+        "site_detay_url": "https://www.volvocars.com/tr/cars/ex40-electric/"
+    },
+    {
+        "marka": "Volvo",
+        "model": "EX40 Twin Motor Ultra",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Elektrikli",
+        "fiyat": 3868621,
+        "resim_url": "https://cas.volvocars.com/image/dynamic/MY25_2417/536/exterior-v1/RB/74300/R78000/R190/FN02/TC06/2G03/_/TP05/_/_/GR08/T101/TJ02/NP02/TM04/_/CB04/EV02/JB0A/T201/LF05/_/VP07/FH01/_/_/_/_/_/default.jpg?market=tr&client=pdps&angle=103&w=1920&imdensity=1",
+        "site_detay_url": "https://www.volvocars.com/tr/cars/ex40-electric/"
+    },
+    {
+        "marka": "Volvo",
+        "model": "XC60 B5 AWD Mild Hybrid Plus Dark",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 5387110,
+        "resim_url": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt387d233b93c51ad8/669014af0bacf12cda2a9904/xc60-fuel-hero-16x9.jpg?branch=prod_alias&auto=avif&quality=85&format=webp&iar=0&w=1920&imdensity=1",
+        "site_detay_url": "https://www.volvocars.com/tr/cars/xc60/"
+    },
+    {
+        "marka": "Volvo",
+        "model": "XC60 T8 AWD Plug-in Hybrid Ultra Bright",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 6291730,
+        "resim_url": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt387d233b93c51ad8/669014af0bacf12cda2a9904/xc60-fuel-hero-16x9.jpg?branch=prod_alias&auto=avif&quality=85&format=webp&iar=0&w=1920&imdensity=1",
+        "site_detay_url": "https://www.volvocars.com/tr/cars/xc60/"
+    },
+    {
+        "marka": "Volvo",
+        "model": "XC90 B5 AWD Mild Hybrid Plus Bright",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 8535820,
+        "resim_url": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt33a9d8987099bb4a/671fac03a14f86577cd3e2c6/PHEV_16x9.jpg?branch=prod_alias&auto=avif&quality=85&format=webp&iar=0&w=1920&imdensity=1",
+        "site_detay_url": "https://www.volvocars.com/tr/cars/xc90-hybrid/"
+    },
+    {
+        "marka": "Volvo",
+        "model": "XC90 T8 AWD Plug-in Hybrid Ultra Dark",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "yakit_tipi": "Hibrit",
+        "fiyat": 9472300,
+        "resim_url": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/blt33a9d8987099bb4a/671fac03a14f86577cd3e2c6/PHEV_16x9.jpg?branch=prod_alias&auto=avif&quality=85&format=webp&iar=0&w=1920&imdensity=1",
+        "site_detay_url": "https://www.volvocars.com/tr/cars/xc90-hybrid/"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T Designpack",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1999500,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Designpack.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T Skypack",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2505100,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Skypack.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T Skypack 4x4",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2629400,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Skypack.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai e-POWER Skypack",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2781300,
+        "yakit_tipi": "e-POWER (Elektrik destekli benzinli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Skypack.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T N-Design",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2682700,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-N-Design.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T N-Design 4x4",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2769700,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-N-Design.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai e-POWER N-Design",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2980200,
+        "yakit_tipi": "e-POWER (Elektrik destekli benzinli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-N-Design.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T Platinum",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2706100,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Platinum.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T Platinum 4x4",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2793100,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Platinum.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai e-POWER Platinum",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2953500,
+        "yakit_tipi": "e-POWER (Elektrik destekli benzinli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Platinum.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T Platinum Premium",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2814900,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Platinum-Premium.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai 1.3 DIG-T Platinum Premium 4x4",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2901900,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/QashqaiMY24/tr-Nissan-qashqai-Platinum-Premium.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-nissan-qashqai.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Juke 1.0 DIG-T 115PS 6MT Tekna",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Manuel",
+        "fiyat": 1599500,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/JukeMY24/tr-nissan-Juke-tekna-580x224.png",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-juke.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Juke 1.0 DIG-T 115PS DCT Tekna",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1814500,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/JukeMY24/tr-nissan-Juke-tekna-580x224.png",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-juke.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Juke 1.0 DIG-T 115PS DCT Platinum",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1908700,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/JukeMY24/tr-Nissan-Juke-platinum-1445x557.png",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-juke.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Juke 1.0 DIG-T 115PS DCT N-Design",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2002800,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/JukeMY24/tr-Nissan-Juke-NDesign-400x225.png",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-juke.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Juke 1.0 DIG-T 115PS DCT N-Sport",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2002800,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/JukeMY24/tr-Nissan-Juke-NSport-400x225.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-juke.html"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Juke 1.0 DIG-T 115PS DCT Platinum Premium",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2116800,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://www-europe.nissan-cdn.net/content/dam/Nissan/turkey/vehicles/JukeMY24/tr-Nissan-Juke-platinum-premium-400x225.jpg",
+        "site_detay_url": "https://www.nissan.com.tr/modeller/binek-araclar/yeni-juke.html"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Crosstrek e-Boxer 2.0i Xclusive",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2893200,
+        "yakit_tipi": "Hibrit (e-BOXER)",
+        "resim_url": "https://www.subaru.com.tr/images/24CROSSTREK-galeri-6.jpg",
+        "site_detay_url": "https://www.subaru.com.tr/crosstrek/subaru-crosstrek-e-boxer-genel-bakis"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Forester e-Boxer 2.0i Style",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 3744500,
+        "yakit_tipi": "Hibrit (e-BOXER)",
+        "resim_url": "https://www.subaru.com.tr/images/25ForesterGaleri11.jpg",
+        "site_detay_url": "https://www.subaru.com.tr/yeni-forester/subaru-yeni-forester-genel-bakis"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Forester e-Boxer 2.0i Fun",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 3425000,
+        "yakit_tipi": "Hibrit (e-BOXER)",
+        "resim_url": "https://www.subaru.com.tr/images/25ForesterGaleri3.jpg",
+        "site_detay_url": "https://www.subaru.com.tr/yeni-forester/subaru-yeni-forester-genel-bakis"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Solterra e-Xtreme",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2478000,
+        "yakit_tipi": "Elektrik",
+        "resim_url": "https://www.subaru.com.tr/images/s_galeri9.jpg",
+        "site_detay_url": "https://www.subaru.com.tr/solterra/subaru-solterra-genel-bakis"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Solterra e-Xcellent",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2547823,
+        "yakit_tipi": "Elektrik",
+        "resim_url": "https://www.subaru.com.tr/images/s_galeri12.jpg",
+        "site_detay_url": "https://www.subaru.com.tr/solterra/subaru-solterra-genel-bakis"
+    },
+    {
+        "marka": "Honda",
+        "model": "City 1.5 i-VTEC Executive",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1416000,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://cdn.v5.honda.com.tr/img/otomobil/city/city-banner.jpg?format=webp&quality=80&width=1184",
+        "site_detay_url": "https://www.honda.com.tr/otomobil/modeller/honda-city"
+    },
+    {
+        "marka": "Honda",
+        "model": "Jazz 1.5 e:HEV Style+",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2430000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://cdn.v5.honda.com.tr/img/otomobil/jazz/jazz-banner.jpg?format=webp&quality=80&width=1184",
+        "site_detay_url": "https://www.honda.com.tr/otomobil/modeller/honda-jazz-hibrit"
+    },
+    {
+        "marka": "Honda",
+        "model": "Civic 1.5 VTEC Turbo Executive+",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2215000,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://cdn.v5.honda.com.tr/img/otomobil/civic-sedan/civic-sedan-banner.jpg?format=webp&quality=80&width=1184",
+        "site_detay_url": "https://www.honda.com.tr/otomobil/modeller/honda-civic-sedan"
+    },
+    {
+        "marka": "Honda",
+        "model": "HR-V 1.5 e:HEV Style+",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2430000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://cdn.v5.honda.com.tr/img/otomobil/hrv-hibrit/hrv-hibrit-banner-new.jpg?format=webp&quality=80&width=1184",
+        "site_detay_url": "https://www.honda.com.tr/otomobil/modeller/honda-hr-v-hibrit"
+    },
+    {
+        "marka": "Honda",
+        "model": "ZR-V e:HEV Advance",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 3332000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://cdn.v5.honda.com.tr/img/otomobil/zrv-hibrit/zrv-hibrit-banner.jpg?format=webp&quality=80&width=1184",
+        "site_detay_url": "https://www.honda.com.tr/otomobil/modeller/honda-zr-v-hibrit"
+    },
+    {
+        "marka": "Honda",
+        "model": "CR-V e:HEV Advance",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 4797000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://cdn.v5.honda.com.tr/img/otomobil/crv-hibrit/crv-hibrit-banner.jpg?format=webp&quality=80&width=1184",
+        "site_detay_url": "https://www.honda.com.tr/otomobil/modeller/honda-cr-v-hibrit"
+    },
+    {
+        "marka": "Honda",
+        "model": "Civic Type R 2.0 VTEC Turbo",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Manuel",
+        "fiyat": 4633000,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://cdn.v5.honda.com.tr/img/otomobil/type-r/type-r-banner.jpg?format=webp&quality=80&width=1184",
+        "site_detay_url": "https://www.honda.com.tr/otomobil/modeller/honda-type-r"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Swift 1.2 MHEV CVT Life (Tek Renk)",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1419000,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://cdn.suzuki.com.tr/asset/otomobil/images/modeller/yeni-swift/swift-1.webp?r1",
+        "site_detay_url": "https://www.suzuki.com.tr/tr/otomobil/yeni-swift-hibrit.html"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Vitara 1.4 MHEV 6AT GL Elegance (Tek Renk)",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1795000,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://cdn.suzuki.com.tr/upi/slider/oto/vitara-hibrit-t.webp?r1",
+        "site_detay_url": "https://www.suzuki.com.tr/tr/otomobil/vitara-hibrit.html"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "S-Cross 1.4 MHEV 6AT GL Elegance",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1875000,
+        "yakit_tipi": "Mild Hybrid (Benzin destekli)",
+        "resim_url": "https://cdn.suzuki.com.tr/asset/otomobil/images/modeller/s-cross/yeni-s-cross-1.webp?r1",
+        "site_detay_url": "https://www.suzuki.com.tr/tr/otomobil/s-cross.html"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Jimny 1.5 AllGrip 4AT GLX (Tek Renk)",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1945000,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://cdn.suzuki.com.tr/upi/slider/oto/jimny-t.webp?r1",
+        "site_detay_url": "https://www.suzuki.com.tr/tr/otomobil/jimny.html"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Yaris Hybrid",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1594000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/0e92f1ff-054c-42c7-8e38-83f2da7018a8/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/yaris"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Yaris Cross Hybrid",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1893000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/b747e8bb-fc77-49d6-8720-c148dae81db9/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/yaris-cross"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Corolla Sedan",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1463000,
+        "yakit_tipi": "Benzin",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/2d284c5c-71ea-4c2a-994a-73d3d8ecd283/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/corolla-sedan"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Corolla Hatchback Hybrid",
+        "kasa_tipi": "Hatchback",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1819000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/fa281e3e-32ca-442e-a5c8-f1996d5c545b/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/corolla-hatchback"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Toyota C-HR Hybrid",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2289000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/b3ac06a3-ce5e-4bcd-bf3b-39702f3f2543/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/c-hr"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Corolla Cross Hybrid",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1925500,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/6455a23a-f46d-43ea-a015-70b253ff68a5/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/corolla-cross"
+    },
+    {
+        "marka": "Toyota",
+        "model": "RAV4 Hybrid",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 3565000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/8faadd02-2f11-4ffc-ae84-980fb10a40bb/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/rav4"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Land Cruiser Prado",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 9550000,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/95743b42-1a88-4765-9036-273006ef3f13/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/land-cruiser-prado"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Hilux",
+        "kasa_tipi": "Pick-up",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2069000,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/8faa72b9-49bd-4a32-872b-3702a4686517/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/hilux"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Proace City",
+        "kasa_tipi": "Van",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1375000,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/7285bc4b-b246-4f75-b014-3f22d586aee0/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/proace-city"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Proace City Cargo",
+        "kasa_tipi": "Van",
+        "vites_tipi": "Otomatik",
+        "fiyat": 995000,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/0ae0a31a-8667-4362-bad0-a3ba7a868a13/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/proace-city-cargo"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Proace Verso",
+        "kasa_tipi": "Van",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1950000,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/c5d9ebfa-ccee-4ebe-8b99-775029e22675/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/proace-verso"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Proace Cargo",
+        "kasa_tipi": "Van",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1390000,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://images.toyota-europe.com/tr/configurationtype/visual-for-model-selector/product-token/e60ede87-2b7d-4eaa-9801-ff2348f83f51/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.toyota.com.tr/araba-modelleri/proace-cargo"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LBX 1.5 Hybrid",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 1450000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.lexus-europe.com/tr/configurationtype/visual-for-model-selector/product-token/f84f99cb-42ed-41e3-87eb-bd38f90eae72/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.lexus.com.tr/araclar/lbx"
+    },
+    {
+        "marka": "Lexus",
+        "model": "NX 350h AWD",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2350000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.lexus-europe.com/tr/configurationtype/visual-for-model-selector/product-token/cb9e275d-9263-4f9c-bed6-7320a68f7919/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.lexus.com.tr/araclar/nx"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LS 500h AWD",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "fiyat": 3950000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.lexus-europe.com/tr/configurationtype/visual-for-model-selector/product-token/43de1aca-e8c8-48ce-b643-95320b551cd8/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.lexus.com.tr/araclar/ls"
+    },
+    {
+        "marka": "Lexus",
+        "model": "ES 300h",
+        "kasa_tipi": "Sedan",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2150000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.lexus-europe.com/tr/configurationtype/visual-for-model-selector/product-token/c5798fdd-da50-4990-8863-22add0207665/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.lexus.com.tr/araclar/es"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX 500h F SPORT",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2850000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.lexus-europe.com/tr/configurationtype/visual-for-model-selector/product-token/2c076bd8-564a-4acf-8627-a3d290df9bd2/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.lexus.com.tr/araclar/rx"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LM 350h AWD",
+        "kasa_tipi": "MPV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 4550000,
+        "yakit_tipi": "Hibrit",
+        "resim_url": "https://images.lexus-europe.com/tr/configurationtype/visual-for-model-selector/product-token/aecd2622-4ce3-4e1a-9c8e-0f36c83af608/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.lexus.com.tr/araclar/lm"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RZ 450e AWD",
+        "kasa_tipi": "SUV",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2750000,
+        "yakit_tipi": "Elektrik",
+        "resim_url": "https://images.lexus-europe.com/tr/configurationtype/visual-for-model-selector/product-token/270b4c51-9269-44d6-9462-515ac3c6d820/fallback/true/width/390/height/260/scale-mode/3/padding/0,0,-50,30/image-quality/75/exterior-4.png",
+        "site_detay_url": "https://www.lexus.com.tr/araclar/rz"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "D-MAX V-Life 4x2 AT",
+        "kasa_tipi": "Pick-up",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2591100,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://d-max.com.tr/nimg/galeri/24MY-ISUZU-D-MAX_3_EU-LHD_CREW_RBE.jpg",
+        "site_detay_url": "https://d-max.com.tr/modeller/galeri"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "D-MAX V-Life 4x4 AT",
+        "kasa_tipi": "Pick-up",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2721300,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://d-max.com.tr/nimg/galeri/24MY-ISUZU-D-MAX_6_EU-LHD_CREW_RBE_Tow.jpg",
+        "site_detay_url": "https://d-max.com.tr/modeller/galeri"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "D-MAX V-Cross 4x4 AT",
+        "kasa_tipi": "Pick-up",
+        "vites_tipi": "Otomatik",
+        "fiyat": 2891900,
+        "yakit_tipi": "Dizel",
+        "resim_url": "https://d-max.com.tr/nimg/galeri/24MY-ISUZU-D-MAX_7_EU-LHD_CREW_RBE.jpg",
+        "site_detay_url": "https://d-max.com.tr/modeller/galeri"
+    }
+]
